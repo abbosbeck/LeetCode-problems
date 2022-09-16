@@ -7,4 +7,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="121 Best Time to Buy and Sell Stock.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="121 Best Time to Buy and Sell Stock.cs" />
+  </ItemGroup>
+
 </Project>
