@@ -1,4 +1,5 @@
 ﻿using Masala;
 
-Console.WriteLine(Fib.Fib(5));
+
+Console.WriteLine(Fib.Fibon(5));
 

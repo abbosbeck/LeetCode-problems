@@ -8,7 +8,7 @@ namespace Masala
 {
     public class Fib
     {
-        public static int Fib(int n)
+        public static int Fibon(int n)
         {
             if (n < 3)
             {
