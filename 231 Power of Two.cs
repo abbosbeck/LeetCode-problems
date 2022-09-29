@@ -8,7 +8,7 @@ namespace Masala
 {
     public class _231_Power_of_Two
     {
-        static bool Checker(int n)
+        public static bool Checker(int n)
         {
             if (n == 1 || n == 2)
                 return true;
