@@ -1,5 +1,7 @@
-﻿using Masala;
+﻿//using Masala;
 
 
-Console.WriteLine(Fib.Fibon(5));
+Console.WriteLine(Checker(16));
+ 
 
+//Console.WriteLine(Fib.Fibon(5));
