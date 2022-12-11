@@ -2,6 +2,9 @@
 {
     public static void Main(string[] args)
     {
-        Console.WriteLine(CountofMatchesinTournament.NumberOfMatches(7));
+        foreach(var a in SelfDividingNumberss.SelfDividingNumbers(1, 22))
+        {
+            Console.WriteLine(a);
+        };
     }
 }
