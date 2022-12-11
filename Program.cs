@@ -2,6 +2,6 @@
 {
     public static void Main(string[] args)
     {
-        Console.WriteLine(XOROperationinanArray.XorOperation(4, 3));
+        Console.WriteLine(CountofMatchesinTournament.NumberOfMatches(7));
     }
 }
