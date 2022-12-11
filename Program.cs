@@ -2,6 +2,6 @@
 {
     public static void Main(string[] args)
     {
-        Console.WriteLine(SubtracttheProductandSumofDigitsofanInteger.SubtractProductAndSum(243));
+        Console.WriteLine(XOROperationinanArray.XorOperation(4, 3));
     }
 }
